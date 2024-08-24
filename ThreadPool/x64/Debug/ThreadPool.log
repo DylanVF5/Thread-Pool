@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\void\source\repos\ThreadPool\ThreadPool\src\main.cpp(4,17): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'std::thread::id'
+  ThreadPool.vcxproj -> C:\Users\void\source\repos\ThreadPool\x64\Debug\ThreadPool.exe
