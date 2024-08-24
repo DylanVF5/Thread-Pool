@@ -30,3 +30,4 @@ for (int i = 0; i < 8; ++i) {
 
 # Note
 - This is a learning project and may not be suitable for production environments.
+- The implementation here may not be the most efficient or optimal way to create a thread pool. It's a first attempt at understanding and implementing these concepts, and there's likely room for improvement.
